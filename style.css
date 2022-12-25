@@ -1,0 +1,28 @@
+/*Section Principale */
+.container {
+    background-color: rgb(194, 188, 182);
+    width: 100vw;
+}
+#container_row {
+    height: 500px;
+}
+#container_font {
+    margin-top: 100px;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', sans-serif;
+}
+#container_p {
+    color: blach; 
+    font-size: 30px; 
+    font-family: cursive;
+}
+
+h1, button {
+    display: inline-flex;
+}
+span{
+    background-color: rgb(202, 205, 205); 
+        color: white;
+}
